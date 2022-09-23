@@ -1,3 +1,3 @@
-public class RidAble {
+public class RideAble {
 
 }
